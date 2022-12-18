@@ -1,6 +1,7 @@
 #include <ncurses.h>
 
-int main()
+int 
+main()
 {
 	initscr();
 	printw("Hello!");
